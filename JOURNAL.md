@@ -1,3 +1,3 @@
-<ul><li>Before sign in the contest i already bein working on this project fo 10 hours creating a version one of the schematics</li>
+<ul><li>Before sign in the contest i already bein working on this project fo 10 hours.in hours one and two i researched and picked the components that i will use after that in the hours 3 and 4 i studied the datasheet of every component and for the remaining hours i started creating the firs version of the schematics</li>
 <li>6/4/25 20:07-21:00 Created git hub repository and  readme file also uploaded my previous work on the project  </li>
 <li> 6/4/25 21:07-22:00 started working on the pcb of the version one of the board </li>
