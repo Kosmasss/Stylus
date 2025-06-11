@@ -17,4 +17,5 @@ The PCB design was a little bit chalenging because. First of all i had to to squ
 <li>9/6/25 16:05-17:00 a simple circuit simular to the design so i can ensure that evreythink is conected properly on my PCBS https://wokwi.com/projects/433297580970426369 
 <li>9/6/25 19-19:50 i realized that i have not added a flash memory and a way so the microcontroller can boot so i starter researching for the flash memmory and the way to connect everything together ![image](https://github.com/user-attachments/assets/7625f3f9-9c5e-4dea-9f8b-681adb150d88),![image](https://github.com/user-attachments/assets/e3beefb7-278c-4529-b5d0-db76bf88565a)</li>
 <li>9/6/25 21:00-22:22 After some thinking i decided that was more efective to change the microcontroler than insert flash memory into the sysyem so i ended up researching and replacing the ESP32-D0WD-V3 with ESP32-PICO-V3-02 that has interegeted flash memory  </li>
- 
+ <li>11/6/25 9:20-10:11 today i studied the datasheets of the new microcontroler and take some notes about pins and bootmode so the process of the design is easier![image](https://github.com/user-attachments/assets/198197aa-b3ae-409b-941c-20ea6c69ec42)
+</li>
