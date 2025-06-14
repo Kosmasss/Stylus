@@ -20,3 +20,4 @@ The PCB design was a little bit chalenging because. First of all i had to to squ
  <li>11/6/25 9:20-10:11 today i studied the datasheets of the new microcontroler and take some notes about pins and bootmode so the process of the design is easier![image](https://github.com/user-attachments/assets/198197aa-b3ae-409b-941c-20ea6c69ec42)
 </li>
 <li>12/6/25 21:14-23:12 i started designing the Schematic and Pcb of V3 of the main board (i delayed updating the journal because i had no internet)</li>
+<li>14/6/25 16:02-17:34 I changed the design of the charching station and charging circuit of the main device .Fot instance in removed the pogo pins from the charging circuit of the main device and replaced them with condactive pads so  the PCB is more compact .Also i removed the the pads from the charging station and replaced them with pogo pins.In the end i deleted the previous version of the boards on the github page and uploaded the new ones as version 1 </li>
